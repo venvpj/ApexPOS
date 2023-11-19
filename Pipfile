@@ -8,6 +8,7 @@ django = "*"
 djangorestframework = "*"
 
 [dev-packages]
+ruff = "*"
 
 [requires]
 python_version = "3.12"
